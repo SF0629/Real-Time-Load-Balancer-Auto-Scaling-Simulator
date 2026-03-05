@@ -109,7 +109,7 @@ Auto Scaling Controller
 https://drive.google.com/file/d/1hitCu3RdgiLiwuF5Y1InaVcdEnwCNJGw/view?usp=drive_link
 
 <h2>사이트</h2>
-https://sf0629.github.io/Real-Time-Load-Balancer-Auto-Scaling-Simulator
+https://sf0629.github.io/Auto-Scaling-Simulator
 
 </body>
 </html>
